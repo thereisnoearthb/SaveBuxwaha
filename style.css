@@ -46,7 +46,7 @@ body{
 .link{
     display: block;
     background-color: var(--accentColor);
-    color: var(--black);
+    color: black;
     font-family: var(--font);
     text-align: center;
     margin-bottom: 20px;
